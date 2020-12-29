@@ -4,4 +4,4 @@ to take advantage of this repository, creating never-seen-before fashion items!
 
 No need for extra  GPU's! All training process is done in Google-Colab Free Version!
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/piaistes/FashionGAN-2020/blob/main/GithubTitle.JPG)
