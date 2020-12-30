@@ -11,6 +11,8 @@ No need for extra  GPU's! All training process is done in Google-Colab Free Vers
 - Dataset with square-images (ideally 128x128 for Google-Colab ressources)
 
 ## Manipulation
-Here you go with some examples of what you can do with FashionGAN:
+Here you go with some examples of how you can play with FashionGAN (apart from generating new designs):
 
 ### Truncation-Trick
+
+![alt text](https://github.com/piaistes/FashionGAN-2020/blob/main/TruncationV1.JPG)
