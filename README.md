@@ -22,4 +22,8 @@ Here you go with some examples of how you can play with FashionGAN (apart from g
 ### Style-Mixing
 ![alt text](https://github.com/piaistes/FashionGAN-2020/blob/main/StyleMixing.JPG)
 
-### Projection
+### Projection 
+Some examples of projecting images that were not part of the original training dataset:
+![alt text](https://github.com/piaistes/FashionGAN-2020/blob/Projection1.JPG)
+Some examples of projecting images that were part of the original training dataset:
+![alt text](https://github.com/piaistes/FashionGAN-2020/blob/main/Projection2.JPG)
