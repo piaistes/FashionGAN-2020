@@ -9,3 +9,8 @@ No need for extra  GPU's! All training process is done in Google-Colab Free Vers
 ## Requirements
 - Google-Drive Account with at least 50GB of memory (for training with 128x128 images)
 - Dataset with square-images (ideally 128x128 for Google-Colab ressources)
+
+## Manipulation
+Here you go with some examples of what you can do with FashionGAN:
+
+### Truncation-Trick
