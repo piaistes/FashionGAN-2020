@@ -20,4 +20,6 @@ Here you go with some examples of how you can play with FashionGAN (apart from g
 ![alt text](https://github.com/piaistes/FashionGAN-2020/blob/main/Interpolation.JPG)
 
 ### Style-Mixing
+![alt text](https://github.com/piaistes/FashionGAN-2020/blob/main/StyleMixing.JPG)
 
+### Projection
