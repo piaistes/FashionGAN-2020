@@ -26,4 +26,4 @@ Here you go with some examples of how you can play with FashionGAN (apart from g
 Some examples of projecting images that WERRE NOT part of the original training dataset:
 ![alt text](https://github.com/piaistes/FashionGAN-2020/blob/main/Projection1.0.JPG)
 Some examples of projecting images that WERE part of the original training dataset:
-![alt text](https://github.com/piaistes/FashionGAN-2020/blob/main/Projection2.JPG)
+![alt text](https://github.com/piaistes/FashionGAN-2020/blob/main/Projection2.0.JPG)
